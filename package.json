@@ -1,0 +1,15 @@
+{
+  "name": "github-repository-manager",
+  "version": "1.0.0",
+  "productName": "GitHub Repository Manager",
+  "description": "Desktop GitHub repository manager with cloud-first visual file operations",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^43.3.0"
+  }
+}
